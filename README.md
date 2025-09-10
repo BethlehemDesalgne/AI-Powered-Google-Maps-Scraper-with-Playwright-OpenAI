@@ -38,9 +38,3 @@ The workflow is split into two main steps:
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) – HTML parsing  
 - [OpenAI API](https://platform.openai.com/) – generative AI for structured parsing  
 - [Pandas](https://pandas.pydata.org/) – exporting JSON → CSV  
-
-## 🚀 Usage
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/google-maps-playwright-scraper.git
-   cd google-maps-playwright-scraper
